@@ -1,0 +1,15 @@
+C:\Users\User\sortAlgorithm\bin\Debug\net6.0\sortAlgorithm.exe
+C:\Users\User\sortAlgorithm\bin\Debug\net6.0\sortAlgorithm.deps.json
+C:\Users\User\sortAlgorithm\bin\Debug\net6.0\sortAlgorithm.runtimeconfig.json
+C:\Users\User\sortAlgorithm\bin\Debug\net6.0\sortAlgorithm.dll
+C:\Users\User\sortAlgorithm\bin\Debug\net6.0\ref\sortAlgorithm.dll
+C:\Users\User\sortAlgorithm\bin\Debug\net6.0\sortAlgorithm.pdb
+C:\Users\User\sortAlgorithm\obj\Debug\net6.0\sortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\User\sortAlgorithm\obj\Debug\net6.0\sortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\sortAlgorithm\obj\Debug\net6.0\sortAlgorithm.AssemblyInfoInputs.cache
+C:\Users\User\sortAlgorithm\obj\Debug\net6.0\sortAlgorithm.AssemblyInfo.cs
+C:\Users\User\sortAlgorithm\obj\Debug\net6.0\sortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\sortAlgorithm\obj\Debug\net6.0\sortAlgorithm.dll
+C:\Users\User\sortAlgorithm\obj\Debug\net6.0\ref\sortAlgorithm.dll
+C:\Users\User\sortAlgorithm\obj\Debug\net6.0\sortAlgorithm.pdb
+C:\Users\User\sortAlgorithm\obj\Debug\net6.0\sortAlgorithm.genruntimeconfig.cache
