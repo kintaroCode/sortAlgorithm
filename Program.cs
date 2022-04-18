@@ -3,8 +3,6 @@
 using System.Diagnostics;
 using sortalgorithm;
 
-Console.WriteLine("Hello, World!");
-
 
 algorithm Is=new algorithm();
 
@@ -18,9 +16,14 @@ int[] Arraydisorder=new int[] {15,23,59,45,12,4,1,26,36,23,25,89,105,532,2,48,15
 // foreach (var item in sorted)
 // {
 //     System.Console.Write(" - {0}",item);
-// // }
+//  }
 // System.Console.WriteLine();
 // System.Console.WriteLine(timer.Elapsed);
+
+// List<int> unsorted = new List<int>() { 42, 13, 86, 9, 10, 55, 71 };
+// List<int> sorted;
+
+// sorted = Is.Sort(unsorted);
 System.Console.WriteLine("------------------------");
-System.Console.WriteLine(Is.MergeSort(Arraydisorder));
+System.Console.Write(Is.MergeSort(Arraydisorder));
 
